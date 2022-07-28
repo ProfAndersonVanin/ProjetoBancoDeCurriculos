@@ -1,4 +1,7 @@
 # Projeto Banco De Curriculos
+
+### Definições Iniciais - 28/07/2022
+
 Projeto Interdisciplinar para a criação de um Banco de Currículos da Etec MCM
 
 Definição dos usuários do Sistema:
@@ -26,9 +29,9 @@ Currículo do Aluno:
 ### Descrição de Funcionamento do Sistema
 
 ### CheckList de Etapas do Projeto
-==> Definições Iniciais - 28/07/2022
-==> Diagrama de Caso de Uso
-==> Criação do Banco de Dados
-==> Criação das Telas do Front-End
-==> Programação do Back-End
-==> Testes
+- ~~Definições Iniciais~~ - 28/07/2022 :heavy_check_mark:
+- Diagrama de Caso de Uso
+- Criação do Banco de Dados
+- Criação das Telas do Front-End
+- Programação do Back-End
+- Testes
