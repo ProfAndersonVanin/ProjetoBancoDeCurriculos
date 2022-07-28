@@ -28,10 +28,10 @@ Currículo do Aluno:
 
 ### Descrição de Funcionamento do Sistema
 
-### CheckList de Etapas do Projeto
+### CheckList de Etapas do Projeto :calendar:
 - ~~Definições Iniciais~~ - 28/07/2022 :heavy_check_mark:
-- Diagrama de Caso de Uso
-- Criação do Banco de Dados
-- Criação das Telas do Front-End
-- Programação do Back-End
-- Testes
+- Diagrama de Caso de Uso :watch:
+- Criação do Banco de Dados :watch:
+- Criação das Telas do Front-End :watch:
+- Programação do Back-End :watch:
+- Testes :watch:
