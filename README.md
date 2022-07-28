@@ -24,3 +24,11 @@ Currículo do Aluno:
 - Ramo de Atividade
 
 ### Descrição de Funcionamento do Sistema
+
+### CheckList de Etapas do Projeto
+==> Definições Iniciais - 28/07/2022
+==> Diagrama de Caso de Uso
+==> Criação do Banco de Dados
+==> Criação das Telas do Front-End
+==> Programação do Back-End
+==> Testes
